@@ -1,0 +1,18 @@
+{
+  "name": "dbcache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbcache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/pharaoh/dbcache.git"
+  },
+  "author": "pharaoh",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  }
+}
